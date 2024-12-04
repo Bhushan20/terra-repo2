@@ -1,1 +1,1 @@
-This is 1st test case appplied on project.
+This is auto test case appplied on project.
